@@ -60,7 +60,7 @@ Path:
       ~/.antigenrc
 
 
-#Theme powerlevel10k
+# Theme powerlevel10k
 If you want to use the powerlevel10k Theme you have to follow the instruktions form https://github.com/romkatv/powerlevel10k
 
 # Tmux
