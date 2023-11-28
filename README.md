@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/Annamorphismus/alacritty_config/blob/main/alacritty_terminal.png)
 # alacritty_config
 Alacrity Terminal config paired with Zsh configuration with Antigen and Oh-My-Zsh
 
