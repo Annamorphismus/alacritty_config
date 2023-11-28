@@ -53,8 +53,8 @@ Alacrity Terminal config paired with Zsh configuration with Antigen and Oh-My-Zs
 
 # Configure ZSH 
 
-You can configure your Oh-My-Zsh directly in your .zshrc file. A example file is given
+You can configure your Oh-My-Zsh directly in your .antigenrc file. A example file is given.
 
 Path:
 
-      ~/.zshrc
+      ~/.antigenrc
