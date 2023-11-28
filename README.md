@@ -57,4 +57,4 @@ You can configure your Oh-My-Zsh directly in your .zshrc file. A example file is
 
 Path:
 
-  ~/.zshrc
+      ~/.zshrc
