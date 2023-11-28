@@ -38,24 +38,32 @@ Alacrity Terminal config paired with Zsh configuration with Antigen and Oh-My-Zs
     ~/.config/alacritty/alacritty.toml
 
 
-## ZSH Config 
+# ZSH Config 
 
-# Install ZSH 
+## Install ZSH 
 
     sudo zypper in zsh 
 
-# Make ZSH default
+## Make ZSH default
 
     chsh -s /bin/zsh
 
-# Install Antigen
+## Install Antigen
 
     curl -L git.io/antigen > antigen.zsh
 
-# Configure ZSH 
+## Configure ZSH 
 
 You can configure your Oh-My-Zsh directly in your .antigenrc file. A example file is given.
 
 Path:
 
       ~/.antigenrc
+
+
+# Theme powerlevel10k
+If you want to use the powerlevel10k Theme you have to follow the instruktions form https://github.com/romkatv/powerlevel10k
+
+# Tmux
+For better handling of the console you can consider using tmux 
+
