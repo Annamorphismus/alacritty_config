@@ -58,3 +58,11 @@ You can configure your Oh-My-Zsh directly in your .antigenrc file. A example fil
 Path:
 
       ~/.antigenrc
+
+
+#Theme powerlevel10k
+If you want to use the powerlevel10k Theme you have to follow the instruktions form https://github.com/romkatv/powerlevel10k
+
+# Tmux
+For better handling of the console you can consider using tmux 
+
